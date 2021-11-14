@@ -1,0 +1,10 @@
+com/social/socialapp/MainApplication.java
+ com.social.socialapp.MainApplication
+ com.social.socialapp.MainApplication$1
+com/social/socialapp/BuildConfig.java
+ com.social.socialapp.BuildConfig
+com/social/socialapp/MainActivity.java
+ com.social.socialapp.MainActivity
+ com.social.socialapp.MainActivity$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

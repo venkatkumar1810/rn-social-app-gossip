@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/socialapp.iml" filepath="$PROJECT_DIR$/.idea/modules/socialapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/socialapp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/socialapp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-940746194/socialapp.expo.iml" filepath="$PROJECT_DIR$/.idea/modules/-940746194/socialapp.expo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1297611057/socialapp.expo-application.iml" filepath="$PROJECT_DIR$/.idea/modules/1297611057/socialapp.expo-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1891910256/socialapp.expo-constants.iml" filepath="$PROJECT_DIR$/.idea/modules/1891910256/socialapp.expo-constants.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2083920135/socialapp.expo-error-recovery.iml" filepath="$PROJECT_DIR$/.idea/modules/-2083920135/socialapp.expo-error-recovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/767666049/socialapp.expo-file-system.iml" filepath="$PROJECT_DIR$/.idea/modules/767666049/socialapp.expo-file-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/266473294/socialapp.expo-font.iml" filepath="$PROJECT_DIR$/.idea/modules/266473294/socialapp.expo-font.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-74611125/socialapp.expo-json-utils.iml" filepath="$PROJECT_DIR$/.idea/modules/-74611125/socialapp.expo-json-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-125517060/socialapp.expo-keep-awake.iml" filepath="$PROJECT_DIR$/.idea/modules/-125517060/socialapp.expo-keep-awake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1792451653/socialapp.expo-manifests.iml" filepath="$PROJECT_DIR$/.idea/modules/1792451653/socialapp.expo-manifests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/510592036/socialapp.expo-modules-core.iml" filepath="$PROJECT_DIR$/.idea/modules/510592036/socialapp.expo-modules-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/428295219/socialapp.expo-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/428295219/socialapp.expo-splash-screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/732596425/socialapp.expo-structured-headers.iml" filepath="$PROJECT_DIR$/.idea/modules/732596425/socialapp.expo-structured-headers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1736647467/socialapp.expo-updates.iml" filepath="$PROJECT_DIR$/.idea/modules/1736647467/socialapp.expo-updates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1416103191/socialapp.expo-updates-interface.iml" filepath="$PROJECT_DIR$/.idea/modules/1416103191/socialapp.expo-updates-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/289328829/socialapp.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/289328829/socialapp.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-367665588/socialapp.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-367665588/socialapp.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1810439959/socialapp.react-native-firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1810439959/socialapp.react-native-firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/971258202/socialapp.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/971258202/socialapp.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1910213502/socialapp.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-1910213502/socialapp.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2022597443/socialapp.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/2022597443/socialapp.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-101881061/socialapp.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-101881061/socialapp.react-native-screens.iml" />
+    </modules>
+  </component>
+</project>
