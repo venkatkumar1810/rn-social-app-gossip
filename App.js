@@ -7,7 +7,6 @@ import OnboardingScreen from './screens/OnboardingScreen';
 const App = () => {
   return (
     <>
-      {/* <OnboardingScreen /> */}
       <Providers />
       <StatusBar style="auto" />
     </>
